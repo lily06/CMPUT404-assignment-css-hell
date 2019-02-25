@@ -1,0 +1,57 @@
+
+p{
+    padding-left: 1em;
+    font-family: "Times New Roman", Times, serif;
+    color:blue;
+}
+
+body {
+    margin-left:15%; 
+    margin-right:15%; 
+    background-image: url(assets/uglytitle.jpg);
+
+}
+
+.contact{
+    color:green;
+    text-align:center;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+}
+.title {
+    color : rgb(236, 2, 186);
+}
+
+
+.content{
+
+    background: blueviolet;
+}
+.side-bar{
+    margin-left:50%;
+    background-size: cover;
+    background-image: url(assets/cat.jpg); 
+}
+
+img {
+    border-radius: 2px;
+}
+
+ul.a {
+    list-style-type: circle;
+    color:beige;
+
+}
+
+h2 {
+    padding-left: 0.5em;
+}
+h3{
+    padding-left:2em;
+    color: rgb(141, 224, 220);
+}
+ul.b {
+    list-style-type: square;
+    color:beige;
+}
+  
